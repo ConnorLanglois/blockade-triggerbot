@@ -20,9 +20,9 @@ Clone the repo.
 
 Run the main file:
 
-	```
-	src/BLOCKADETriggerbot.au3
-	```
+```
+src/BLOCKADETriggerbot.au3
+```
 
 ## Authors
 
